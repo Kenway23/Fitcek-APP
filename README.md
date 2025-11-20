@@ -64,7 +64,7 @@ Aplikasi ini dibuat sebagai bagian dari **UTS Pemrograman Mobile 2**.
 ![about](assets/screenshots/about.png)
 
 ## Data Diri
-Nama : Rifki Muhamad Fauzi
-Nim : 23552011078
-Kelas : TIF RP 23 CID A
+Nama : Rifki Muhamad Fauzi<br>
+Nim : 23552011078<br>
+Kelas : TIF RP 23 CID A<br>
 Pengumpulan UTS PEMOB 2 APlikasi FitCek(untuk rekomendasi outfit) berbasis android dengan menggunakan flutter
