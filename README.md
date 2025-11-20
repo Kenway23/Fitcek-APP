@@ -40,7 +40,7 @@ Aplikasi ini dibuat sebagai bagian dari **UTS Pemrograman Mobile 2**.
 ## 📸 Screenshot Aplikasi
 
 ### Login Page 
-![Login Page](../assets/screenshots/login.png)
+![Login Page](assets/screenshots/login.png)
 <br>
 ### Reguster Page 
 ![Login Page](assets/screenshots/register.png)
