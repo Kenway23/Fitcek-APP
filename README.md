@@ -43,25 +43,25 @@ Aplikasi ini dibuat sebagai bagian dari **UTS Pemrograman Mobile 2**.
 ![Login Page](../assets/screenshots/login.png)
 
 ### Reguster Page 
-![Login Page](../assets/screenshots/register.png)
+![Login Page](assets/screenshots/register.png)
 
 ### Beranda  
-![Beranda](../assets/screenshots/beranda.png)
+![Beranda](assets/screenshots/beranda.png)
 
 ### Rekomendasi  
-![Rekomendasi](../assets/screenshots/rekomendasi.png)
-![Gender Cowo](../assets/screenshots/cowo.png)
-![Gender Cewe](../assets/screenshots/cewe.png)
-![Kategori Unisex](../assets/screenshots/unisex.png)
+![Rekomendasi](assets/screenshots/rekomendasi.png)
+![Gender Cowo](assets/screenshots/cowo.png)
+![Gender Cewe](assets/screenshots/cewe.png)
+![Kategori Unisex](assets/screenshots/unisex.png)
 
 ### Tanya AI  
-![Tanya AI](../assets/screenshots/ai.png)
+![Tanya AI](assets/screenshots/ai.png)
 
 ### Profile  
-![Profile](../assets/screenshots/profile.png)
+![Profile](assets/screenshots/profile.png)
 
 ### About
-![about](../assets/screenshots/about.png)
+![about](assets/screenshots/about.png)
 
 ## Data Diri
 Nama : Rifki Muhamad Fauzi
